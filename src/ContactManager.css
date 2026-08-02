@@ -289,7 +289,7 @@ button:hover {
 .dark .contact-avatar {
   background: #facc15;
   color: #111827;
-  border: 3px solid #facc15;
+  border: 3px solid yellow;
 }
 /* ========================= */
 /* Sort Dropdown */
